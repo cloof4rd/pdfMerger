@@ -1,3 +1,3 @@
 # PDF Manager
 
-A lightweight Python/Tkinter application to merge PDFs in a custom filename-based order.
+A simple GUI to merge PDFs in a custom order based on user selected keywords.
